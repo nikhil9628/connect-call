@@ -193,6 +193,3 @@ connect_call/
 
 ---
 
-## 🤖 AI Disclosure
-
-- **AI Tools Used:** Antigravity (Gemini 3.6 Flash) for pair-programming UI design system, architecture structuring, state management providers, and documentation synthesis.
